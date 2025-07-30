@@ -8,7 +8,25 @@
 
 ### ✅ Yêu cầu:
 
-* Đã cài đặt Node.js và npm
+* Đã cài đặt Node.js và npm  
+  Nếu chưa cài đặt, bạn có thể tải và cài đặt tại: https://nodejs.org/  
+  Hoặc sử dụng lệnh sau (dành cho từng hệ điều hành):
+
+  - **Windows & macOS:**  
+    Tải file cài đặt từ trang chủ Node.js và tiến hành cài đặt theo hướng dẫn.
+
+  - **Ubuntu/Linux:**  
+    Mở terminal và chạy:
+    ```
+    sudo apt update
+    sudo apt install nodejs npm
+    ```
+
+Sau khi cài đặt xong, kiểm tra phiên bản:
+```
+node -v
+npm -v
+```
 
 ### 🛠️ Các bước chạy dự án:
 
