@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "firstName": "Huy",
+      "lastName": "Nguyễn Văn",
+      "phone": "0123456789",
+      "email": "nguyen.van.huy@email.com",
+      "address": "175 Tây Sơn",
+      "class": "CNTT01",
+      "major": "CNTT",
+      "gender": "Nam",
+      "birthDate": "2002-05-15"
+    },
+    {
+      "id": 2,
+      "firstName": "Mai",
+      "lastName": "Trần Thị",
+      "phone": "0987654321",
+      "email": "tran.thi.mai@email.com",
+      "address": "123 Lê Lợi",
+      "class": "HTTT02",
+      "major": "HTTT",
+      "gender": "Nữ",
+      "birthDate": "2003-08-22"
+    },
+    {
+      "id": 3,
+      "firstName": "Hoàng",
+      "lastName": "Phạm Minh",
+      "phone": "0912345678",
+      "email": "pham.minh.hoang@email.com",
+      "address": "456 Nguyễn Trãi",
+      "class": "KTPM01",
+      "major": "KTPM",
+      "gender": "Nam",
+      "birthDate": "2002-12-10"
+    },
+    {
+      "id": 4,
+      "firstName": "Hồng",
+      "lastName": "Lê Thị",
+      "phone": "0909090909",
+      "email": "le.thi.hong@email.com",
+      "address": "789 Hoàng Hoa Thám",
+      "class": "TTNT01",
+      "major": "TTNT",
+      "gender": "Nữ",
+      "birthDate": "2003-03-18"
+    },
+    {
+      "id": 5,
+      "firstName": "Anh",
+      "lastName": "Đặng Quốc",
+      "phone": "0933221100",
+      "email": "dang.quoc.anh@email.com",
+      "address": "321 Hai Bà Trưng",
+      "class": "ANM01",
+      "major": "ANM",
+      "gender": "Nam",
+      "birthDate": "2002-11-05"
+    }
+  ]
